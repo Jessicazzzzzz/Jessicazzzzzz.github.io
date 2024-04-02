@@ -29,7 +29,8 @@ featured: false
 #   preview_only: false
 
 authors:
-  -Jess
+  - admin
+  - Jess
 
 tags:
   - easy
