@@ -1,10 +1,9 @@
 ---
-title: Leetcode solution
-subtitle: Welcome 👋  this is the java version of solution for leetcode number 16
+title: leetcode-15 threeSum
+subtitle: Welcome 👋  this is the java version of solution for leetcode number 15
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
+summary: This algorithm utilizes the two-pointer approach with a time complexity of O(n^2) and space complexity of O(1).
 # Link this post with a project
 # projects: []
 
@@ -38,20 +37,11 @@ tags:
 categories:
   - Leetcode
 ---
-Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+> Solution:
+> This problem requires us to find three numbers whose sum equals 0. If we use the brute force approach, it would involve three nested loops with a time complexity of O(n^3). However, by utilizing the two-pointer technique, we can achieve a time complexity of O(n^2). 
+> The first step is to sort the array, ensuring it is in ascending order. Then, we enumerate the first number and the second number. We can use the two-pointer algorithm. If the result is greater than or equal to 0, we decrement the pointer `k`. This helps in deduplication and finding `k`, as the result set should not contain duplicate values. Therefore, we also need to deduplicate `i` and `j`. If they are the same as the previous number, we can skip them to achieve deduplication.
 
-Notice that the solution set must not contain duplicate triplets.
 
-Example 1:
-
-Input: nums = [-1,0,1,2,-1,-4]
-Output: [[-1,-1,2],[-1,0,1]]
-Explanation: 
-nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
-nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
-nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
-The distinct triplets are [-1,0,1] and [-1,-1,2].
-Notice that the order of the output and the order of the triplets does not matter.
 
 ```java
 class Solution {
