@@ -1,6 +1,6 @@
 ---
 title: js基础学习
-summary: An example of using the in-built project page.
+summary: js 基础总结
 tags:
   - js
 date: '2024-04-09'
@@ -16,7 +16,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 ### 值传递和引用传递
