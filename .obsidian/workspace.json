@@ -11,9 +11,11 @@
             "id": "b736ea826a5c77f2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/project/js2/prototype.png"
+                "file": "content/publication/conference-paper/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/project/js2/prototype.png",
+                "file": "content/publication/conference-paper/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/project/js2/prototype.png",
+                "file": "content/publication/conference-paper/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/project/js2/prototype.png"
+                "file": "content/publication/conference-paper/index.md"
               }
             }
           },
@@ -165,6 +167,17 @@
   },
   "active": "b736ea826a5c77f2",
   "lastOpenFiles": [
+    "content/project/js2/prototype.png",
+    "content/post/js2/原型链.png",
+    "content/post/js2/prototype.png",
+    "content/post/js2/index.md",
+    "content/post/js2",
+    "content/post/js1/index.md",
+    "content/post/js1/featured.jpg",
+    "content/post/js1",
+    "content/thoughts/index.md",
+    "content/thoughts/index",
+    "content/thoughts",
     "content/publication/conference-paper/index.md",
     "content/publication/conference-paper/featured.jpg",
     "content/publication/conference-paper/conference-paper.pdf",
@@ -181,12 +194,9 @@
     "Excalidraw/Drawing 2024-04-13 13.49.01.excalidraw.md",
     "content/post/writing-technical-content/featured.jpg",
     "content/post/writing-technical-content/index.md",
-    "content/project/js2/prototype.png",
     "content/publication/journal-article/index.md",
     "未命名.canvas",
     "images/tn.png",
-    "images/screenshot.png",
-    "preview.png",
     "README.md",
     "Excalidraw",
     "content/project/js2",
