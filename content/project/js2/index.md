@@ -24,17 +24,26 @@ c instanceof Object //true
 
 ```
 
-
-
 #### 继承
 - extends 
 - 子类调用父类构造方法,需要用super()
 
 ### 类型判断和 instanceof 
+- instanceof 本质上是去这个实例上是否有这个对象的prototype ,有就是true ,没有就是false 
 
 ### 原型和原型链
 - class 创建出来的对象 typeof 是函数
--  __proto__ 显示原型
-- Class.prototype 隐式原型
+-  __proto__ 隐式原型
+- Class.prototype 显示原型
 
 ![](prototype.png)
+
+> 每个对象都有显示原型,每个实例都有隐式原型,他们指向的都是同一个内存地址
+> 获取属性或者执行方法的查找顺序
+> 1. 先在自身属性和方法中寻找
+> 2. 如果找不到,则自动去__proto__中查找
+
+![原型链](原型链.png)
+
+怎么验证?
+- 实例对象. hasOwnProperty()

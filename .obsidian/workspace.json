@@ -11,11 +11,9 @@
             "id": "b736ea826a5c77f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/project/js2/index.md",
-                "mode": "source",
-                "source": false
+                "file": "content/project/js2/prototype.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/project/js2/index.md",
+                "file": "content/project/js2/prototype.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/project/js2/index.md",
+                "file": "content/project/js2/prototype.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/project/js2/index.md"
+                "file": "content/project/js2/prototype.png"
               }
             }
           },
@@ -167,20 +165,27 @@
   },
   "active": "b736ea826a5c77f2",
   "lastOpenFiles": [
-    "content/post/writing-technical-content/featured.jpg",
-    "content/post/writing-technical-content/index.md",
+    "content/publication/conference-paper/index.md",
+    "content/publication/conference-paper/featured.jpg",
+    "content/publication/conference-paper/conference-paper.pdf",
+    "content/project/js2/index.md",
+    "content/post/getting-started/index.md",
+    "content/post/blog-with-jupyter/index.md",
+    "content/post/blog-with-jupyter/output_1_0.png",
     "content/project/js1/index.md",
     "content/project/js1/featured.jpg",
-    "content/project/js2/index.md",
+    "content/project/example/index.md",
+    "content/project/external-project/featured.jpg",
+    "content/project/external-project/index.md",
+    "content/project/js2/原型链.png",
+    "Excalidraw/Drawing 2024-04-13 13.49.01.excalidraw.md",
+    "content/post/writing-technical-content/featured.jpg",
+    "content/post/writing-technical-content/index.md",
     "content/project/js2/prototype.png",
-    "content/publication/conference-paper/index.md",
-    "content/publication/conference-paper/conference-paper.pdf",
-    "content/publication/conference-paper/featured.jpg",
     "content/publication/journal-article/index.md",
     "未命名.canvas",
     "images/tn.png",
     "images/screenshot.png",
-    "Excalidraw/Drawing 2024-04-13 13.49.01.excalidraw.md",
     "preview.png",
     "README.md",
     "Excalidraw",
@@ -188,8 +193,6 @@
     "content/project/算法基础-快速排序/index.md",
     "content/slides/example/index.md",
     "content/project/算法基础-快速排序/未命名.md",
-    "content/project/example/index.md",
-    "content/project/external-project/index.md",
     "content/project/算法基础-快速排序",
     "content/_index.md",
     "2024-04-09.md"
