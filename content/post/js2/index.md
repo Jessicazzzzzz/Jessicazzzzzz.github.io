@@ -1,9 +1,31 @@
 ---
 title: 原型和原型链
 summary: 理解原型和原型链
+subtitle: 通过图解理解原型和原型链
+date: '2024-04-13'
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+#   focal_point: ''
+#   placement: 2
+#   preview_only: false
+
+authors:
+  - admin
+  - Jess
+
 tags:
   - js
-date: '2024-04-13'
+
+categories:
+  - 前端面试
 ---
 > 如何准确判断一个变量是不是数组
 > class 原型本质,怎么理解

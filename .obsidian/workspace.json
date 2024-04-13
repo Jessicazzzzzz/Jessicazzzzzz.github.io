@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/thoughts/index.md",
-                "mode": "source",
+                "file": "content/post/js1/index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/thoughts/index.md",
+                "file": "content/post/js1/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/thoughts/index.md",
+                "file": "content/post/js1/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/thoughts/index.md"
+                "file": "content/post/js1/index.md"
               }
             }
           },
@@ -167,16 +167,16 @@
   },
   "active": "b736ea826a5c77f2",
   "lastOpenFiles": [
+    "content/post/js1/featured.jpg",
+    "content/post/js1/index.md",
+    "content/thoughts/index.md",
     "content/publication/conference-paper/index.md",
     "content/project/js2/prototype.png",
     "content/post/js2/原型链.png",
     "content/post/js2/prototype.png",
     "content/post/js2/index.md",
     "content/post/js2",
-    "content/post/js1/index.md",
-    "content/post/js1/featured.jpg",
     "content/post/js1",
-    "content/thoughts/index.md",
     "content/thoughts/index",
     "content/thoughts",
     "content/publication/conference-paper/featured.jpg",

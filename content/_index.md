@@ -181,6 +181,17 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: collection
+    id: thoughts
+    content:
+      title: Thoughts
+      filters:
+        folders:
+          - thoughts
+        featured_only: true
+    design:
+      columns: '1'
+      view: card
   - block: markdown
     content:
       title: Gallery
