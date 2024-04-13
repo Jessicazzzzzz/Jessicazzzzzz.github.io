@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/conference-paper/index.md",
+                "file": "content/thoughts/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/publication/conference-paper/index.md",
+                "file": "content/thoughts/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/publication/conference-paper/index.md",
+                "file": "content/thoughts/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/publication/conference-paper/index.md"
+                "file": "content/thoughts/index.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "b736ea826a5c77f2",
   "lastOpenFiles": [
+    "content/publication/conference-paper/index.md",
     "content/project/js2/prototype.png",
     "content/post/js2/原型链.png",
     "content/post/js2/prototype.png",
@@ -178,7 +179,6 @@
     "content/thoughts/index.md",
     "content/thoughts/index",
     "content/thoughts",
-    "content/publication/conference-paper/index.md",
     "content/publication/conference-paper/featured.jpg",
     "content/publication/conference-paper/conference-paper.pdf",
     "content/project/js2/index.md",
@@ -196,7 +196,6 @@
     "content/post/writing-technical-content/index.md",
     "content/publication/journal-article/index.md",
     "未命名.canvas",
-    "images/tn.png",
     "README.md",
     "Excalidraw",
     "content/project/js2",

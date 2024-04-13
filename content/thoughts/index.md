@@ -1,5 +1,5 @@
 ---
-一些思考
+
 title: 想法
 summary: 
 tags:
