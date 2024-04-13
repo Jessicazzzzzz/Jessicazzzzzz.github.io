@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/js1/index.md",
-                "mode": "preview",
+                "file": "content/post/js3-同步和异步/index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0c7eb12239f310a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/js1/index.md",
+                "file": "content/post/js3-同步和异步/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/js1/index.md",
+                "file": "content/post/js3-同步和异步/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/js1/index.md"
+                "file": "content/post/js3-同步和异步/index.md"
               }
             }
           },
@@ -167,16 +168,20 @@
   },
   "active": "b736ea826a5c77f2",
   "lastOpenFiles": [
-    "content/post/js1/featured.jpg",
-    "content/post/js1/index.md",
+    "content/post/js2-作用域-this/index.md",
+    "content/post/js3-同步和异步/index.md",
+    "content/post/js1-深拷贝/index.md",
+    "content/post/js3-同步和异步",
+    "未命名",
+    "content/slides/example/index.md",
+    "content/post/js1-深拷贝/featured.jpg",
     "content/thoughts/index.md",
     "content/publication/conference-paper/index.md",
     "content/project/js2/prototype.png",
-    "content/post/js2/原型链.png",
-    "content/post/js2/prototype.png",
-    "content/post/js2/index.md",
-    "content/post/js2",
-    "content/post/js1",
+    "content/post/js2-作用域-this/原型链.png",
+    "content/post/js2-作用域-this/prototype.png",
+    "content/post/js2-作用域-this",
+    "content/post/js1-深拷贝",
     "content/thoughts/index",
     "content/thoughts",
     "content/publication/conference-paper/featured.jpg",
@@ -200,7 +205,6 @@
     "Excalidraw",
     "content/project/js2",
     "content/project/算法基础-快速排序/index.md",
-    "content/slides/example/index.md",
     "content/project/算法基础-快速排序/未命名.md",
     "content/project/算法基础-快速排序",
     "content/_index.md",
