@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/project/算法基础-快速排序/index.md",
+                "file": "content/project/js2/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "e0c7eb12239f310a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/project/算法基础-快速排序/index.md",
+                "file": "content/project/js2/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/project/算法基础-快速排序/index.md",
+                "file": "content/project/js2/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/project/算法基础-快速排序/index.md"
+                "file": "content/project/js2/index.md"
               }
             }
           },
@@ -162,18 +161,35 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "b736ea826a5c77f2",
   "lastOpenFiles": [
-    "content/slides/example/index.md",
-    "content/project/算法基础-快速排序/index.md",
+    "content/post/writing-technical-content/featured.jpg",
     "content/post/writing-technical-content/index.md",
+    "content/project/js1/index.md",
+    "content/project/js1/featured.jpg",
+    "content/project/js2/index.md",
+    "content/project/js2/prototype.png",
+    "content/publication/conference-paper/index.md",
+    "content/publication/conference-paper/conference-paper.pdf",
+    "content/publication/conference-paper/featured.jpg",
+    "content/publication/journal-article/index.md",
+    "未命名.canvas",
+    "images/tn.png",
+    "images/screenshot.png",
+    "Excalidraw/Drawing 2024-04-13 13.49.01.excalidraw.md",
+    "preview.png",
+    "README.md",
+    "Excalidraw",
+    "content/project/js2",
+    "content/project/算法基础-快速排序/index.md",
+    "content/slides/example/index.md",
     "content/project/算法基础-快速排序/未命名.md",
     "content/project/example/index.md",
     "content/project/external-project/index.md",
-    "content/project/js基础/index.md",
     "content/project/算法基础-快速排序",
     "content/_index.md",
     "2024-04-09.md"
