@@ -158,10 +158,21 @@ sections:
     id: projects
     content:
       title: Projects
+      count: 5
       filters:
         folders:
           - project
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
       default_button_index: 0
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
