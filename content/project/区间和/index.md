@@ -1,5 +1,6 @@
 ---
 title: 区间和
+summary: 利用离散化的方式 ,实现区间和
 date: 2024-04-20
 tags:
   - acw基础
