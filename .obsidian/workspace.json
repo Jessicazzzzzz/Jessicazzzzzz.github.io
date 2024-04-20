@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "5065dd6b1bd858cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bb68da7ab86da60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f4533ed99fcc962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/project/差分/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41f91a198f33b4e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/project/数组元素的目标和/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e8ec3a0f83bcce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/project/判断子序列/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43012bd4ef7befa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/project/区间合并/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78544a68478d3a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da8576bc06cc02b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c50ba62a73f5b25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d56fdd91f0c28d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd6eeabbadef3a6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06ec57266ce50047",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "e0c7eb12239f310a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e34156d8a5e9826",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3e530643e60d5e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98c2825ca935e180",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6b843e7156a70a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0604f27d5985294",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/_index.md"
+              }
+            }
+          },
+          {
+            "id": "2cf73e4584f1bb8c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "d351c936c22048af",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "78544a68478d3a8c",
+  "lastOpenFiles": [
+    "content/project/二进制中1的个数/index.md",
+    "content/project/快速排序/index.md",
+    "content/project/区间合并/index.md",
+    "content/project/区间合并/区间合并.png",
+    "content/project/区间合并/Drawing 2024-04-20 19.18.44.excalidraw.md",
+    "content/project/区间和/index.md",
+    "content/project/区间合并",
+    "Pasted image 20240420174106.png",
+    "content/project/区间和",
+    "content/project/判断子序列/index.md",
+    "content/project/二进制中1的个数",
+    "content/project/判断子序列/判断子序列.png",
+    "content/project/数组元素的目标和/Drawing 2024-04-20 14.50.47.excalidraw.md",
+    "content/project/判断子序列/Drawing 2024-04-20 15.16.15.excalidraw.md",
+    "content/project/数组元素的目标和/index.md",
+    "content/project/判断子序列",
+    "content/project/数组元素的目标和/数组元素目标和.png",
+    "content/project/数组元素的目标和/未命名.md",
+    "content/project/最长连续不重复的子序列/index.md",
+    "content/project/数组元素的目标和",
+    "最长子序列.png.md",
+    "content/project/最长连续不重复的子序列/最长连续不重复的子序列.png",
+    "content/project/差分/index.md",
+    "content/project/差分/z.md",
+    "content/project/最长连续不重复的子序列/Drawing 2024-04-20 14.22.43.excalidraw.md",
+    "content/project/差分数组/index.md",
+    "content/project/最长连续不重复的子序列",
+    "content/project/子矩阵的和/index.md",
+    "content/project/前缀和/index.md",
+    "content/project/差分数组",
+    "content/project/差分/差分.png",
+    "content/project/差分",
+    "content/project/子矩阵的和/子矩阵.png",
+    "content/post/js2-作用域-this/index.md",
+    "content/project/子矩阵的和/Drawing 2024-04-20 09.39.53.excalidraw.md",
+    "未命名.canvas",
+    "content/post/js2-作用域-this/原型链.png",
+    "content/post/js2-作用域-this/prototype.png",
+    "未命名.md",
+    "未命名 1.md",
+    "content/project/子矩阵的和",
+    "content/project/数的三次方/index.md",
+    "content/project/前缀和",
+    "assets/media/albums/demo/fotografierende-333oj7zFsdg-unsplash.jpg",
+    "content/event/example/index.md",
+    "content/project/数的范围/index.md",
+    "content/project/逆序对的数量/index.md"
+  ]
+}
