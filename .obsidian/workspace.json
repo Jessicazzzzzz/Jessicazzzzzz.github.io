@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "0478d5cb00b796ea",
+        "id": "6bb68da7ab86da60",
         "type": "tabs",
         "children": [
           {
-            "id": "b736ea826a5c77f2",
+            "id": "5f4533ed99fcc962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/js3-同步和异步/index.md",
+                "file": "content/project/差分/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41f91a198f33b4e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/project/数组元素的目标和/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e8ec3a0f83bcce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/project/判断子序列/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43012bd4ef7befa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/project/区间合并/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78544a68478d3a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/project/区间合并/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "e0c7eb12239f310a",
@@ -86,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/js3-同步和异步/index.md",
+                "file": "content/project/区间合并/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/js3-同步和异步/index.md",
+                "file": "content/project/区间合并/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/js3-同步和异步/index.md"
+                "file": "content/project/区间合并/index.md"
               }
             }
           },
@@ -166,48 +214,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b736ea826a5c77f2",
+  "active": "78544a68478d3a8c",
   "lastOpenFiles": [
+    "content/project/区间合并/区间合并.png",
+    "content/project/区间合并/Drawing 2024-04-20 19.18.44.excalidraw.md",
+    "content/project/区间合并/index.md",
+    "content/project/区间和/index.md",
+    "content/project/区间合并",
+    "Pasted image 20240420174106.png",
+    "content/project/二进制中1的个数/index.md",
+    "content/project/区间和",
+    "content/project/判断子序列/index.md",
+    "content/project/二进制中1的个数",
+    "content/project/判断子序列/判断子序列.png",
+    "content/project/数组元素的目标和/Drawing 2024-04-20 14.50.47.excalidraw.md",
+    "content/project/判断子序列/Drawing 2024-04-20 15.16.15.excalidraw.md",
+    "content/project/数组元素的目标和/index.md",
+    "content/project/判断子序列",
+    "content/project/数组元素的目标和/数组元素目标和.png",
+    "content/project/数组元素的目标和/未命名.md",
+    "content/project/最长连续不重复的子序列/index.md",
+    "content/project/数组元素的目标和",
+    "最长子序列.png.md",
+    "content/project/最长连续不重复的子序列/最长连续不重复的子序列.png",
+    "content/project/差分/index.md",
+    "content/project/差分/z.md",
+    "content/project/最长连续不重复的子序列/Drawing 2024-04-20 14.22.43.excalidraw.md",
+    "content/project/差分数组/index.md",
+    "content/project/最长连续不重复的子序列",
+    "content/project/子矩阵的和/index.md",
+    "content/project/前缀和/index.md",
+    "content/project/差分数组",
+    "content/project/差分/差分.png",
+    "content/project/差分",
+    "content/project/子矩阵的和/子矩阵.png",
     "content/post/js2-作用域-this/index.md",
-    "content/post/js3-同步和异步/index.md",
-    "content/post/js1-深拷贝/index.md",
-    "content/post/js3-同步和异步",
-    "未命名",
-    "content/slides/example/index.md",
-    "content/post/js1-深拷贝/featured.jpg",
-    "content/thoughts/index.md",
-    "content/publication/conference-paper/index.md",
-    "content/project/js2/prototype.png",
+    "content/project/子矩阵的和/Drawing 2024-04-20 09.39.53.excalidraw.md",
+    "未命名.canvas",
     "content/post/js2-作用域-this/原型链.png",
     "content/post/js2-作用域-this/prototype.png",
-    "content/post/js2-作用域-this",
-    "content/post/js1-深拷贝",
-    "content/thoughts/index",
-    "content/thoughts",
-    "content/publication/conference-paper/featured.jpg",
-    "content/publication/conference-paper/conference-paper.pdf",
-    "content/project/js2/index.md",
-    "content/post/getting-started/index.md",
-    "content/post/blog-with-jupyter/index.md",
-    "content/post/blog-with-jupyter/output_1_0.png",
-    "content/project/js1/index.md",
-    "content/project/js1/featured.jpg",
-    "content/project/example/index.md",
-    "content/project/external-project/featured.jpg",
-    "content/project/external-project/index.md",
-    "content/project/js2/原型链.png",
-    "Excalidraw/Drawing 2024-04-13 13.49.01.excalidraw.md",
-    "content/post/writing-technical-content/featured.jpg",
-    "content/post/writing-technical-content/index.md",
-    "content/publication/journal-article/index.md",
-    "未命名.canvas",
-    "README.md",
-    "Excalidraw",
-    "content/project/js2",
-    "content/project/算法基础-快速排序/index.md",
-    "content/project/算法基础-快速排序/未命名.md",
-    "content/project/算法基础-快速排序",
-    "content/_index.md",
-    "2024-04-09.md"
+    "未命名.md",
+    "未命名 1.md",
+    "content/project/子矩阵的和",
+    "content/project/数的三次方/index.md",
+    "content/project/前缀和",
+    "assets/media/albums/demo/fotografierende-333oj7zFsdg-unsplash.jpg",
+    "content/event/example/index.md",
+    "content/project/数的范围/index.md",
+    "content/project/逆序对的数量/index.md"
   ]
 }

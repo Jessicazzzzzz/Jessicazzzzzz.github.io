@@ -3,7 +3,9 @@ title: 快速排序
 summary: 快排实现一个整数数列的排序
 tags:
   - acw基础
-date: '2024-04-10'
+  - quickSort
+  - easy
+date: 2024-04-10
 ---
 给定你一个长度为 n 的整数数列。
 
