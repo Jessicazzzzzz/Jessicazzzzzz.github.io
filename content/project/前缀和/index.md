@@ -1,6 +1,7 @@
 ---
 title: 前缀和
 date: 2024-04-20
+summary: 通过前缀和，快速求区间和
 tags:
   - acw基础
   - easy
