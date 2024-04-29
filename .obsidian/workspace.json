@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/project/差分/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/project/差分/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/project/差分/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/project/差分/index.md"
               }
             }
           },
@@ -184,7 +184,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -216,6 +218,9 @@
   },
   "active": "78544a68478d3a8c",
   "lastOpenFiles": [
+    "content/project/寻找第k个数/index.md",
+    "content/project/差分/index.md",
+    "content/_index.md",
     "content/project/二进制中1的个数/index.md",
     "content/project/快速排序/index.md",
     "content/project/区间合并/index.md",
@@ -238,7 +243,6 @@
     "content/project/数组元素的目标和",
     "最长子序列.png.md",
     "content/project/最长连续不重复的子序列/最长连续不重复的子序列.png",
-    "content/project/差分/index.md",
     "content/project/差分/z.md",
     "content/project/最长连续不重复的子序列/Drawing 2024-04-20 14.22.43.excalidraw.md",
     "content/project/差分数组/index.md",
@@ -260,8 +264,6 @@
     "content/project/数的三次方/index.md",
     "content/project/前缀和",
     "assets/media/albums/demo/fotografierende-333oj7zFsdg-unsplash.jpg",
-    "content/event/example/index.md",
-    "content/project/数的范围/index.md",
-    "content/project/逆序对的数量/index.md"
+    "content/event/example/index.md"
   ]
 }
