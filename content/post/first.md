@@ -1,7 +1,6 @@
 +++
 title = 'Hugo 搭建博客'
 date = 2024-09-28T13:08:22+10:00
-draft = true
 +++
 ### hugo搭建博客执行步骤
 下载 hugo
