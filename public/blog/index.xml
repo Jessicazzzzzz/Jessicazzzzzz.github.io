@@ -6,7 +6,15 @@
     <description>Recent content in Blogs on Jess wiki</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 13:55:18 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>坚持每天记录，不断学习</title>
+      <link>http://localhost:1313/blog/try/</link>
+      <pubDate>Sat, 28 Sep 2024 13:55:18 +1000</pubDate>
+      <guid>http://localhost:1313/blog/try/</guid>
+      <description>&lt;p&gt;从今天开始,要坚持每天记录，不断学习!
+温故而知新!!!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -6,7 +6,68 @@
     <description>Recent content on Jess wiki</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 17:38:03 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/post/second/</link>
+      <pubDate>Sat, 28 Sep 2024 17:38:03 +1000</pubDate>
+      <guid>http://localhost:1313/post/second/</guid>
+      <description>&lt;p&gt;second&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/algorithm/first/</link>
+      <pubDate>Sat, 28 Sep 2024 14:01:21 +1000</pubDate>
+      <guid>http://localhost:1313/algorithm/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>坚持每天记录，不断学习</title>
+      <link>http://localhost:1313/blog/try/</link>
+      <pubDate>Sat, 28 Sep 2024 13:55:18 +1000</pubDate>
+      <guid>http://localhost:1313/blog/try/</guid>
+      <description>&lt;p&gt;从今天开始,要坚持每天记录，不断学习!
+温故而知新!!!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Sat, 28 Sep 2024 13:30:21 +1000</pubDate>
+      <guid>http://localhost:1313/post/test/</guid>
+      <description>&lt;p&gt;尝试用workflow + hugo + hugo-extended来搭建一个博客&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugo 搭建博客</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Sat, 28 Sep 2024 13:08:22 +1000</pubDate>
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>&lt;h3 id=&#34;hugo搭建博客执行步骤&#34;&gt;hugo搭建博客执行步骤&lt;/h3&gt;
+&lt;p&gt;下载 hugo&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;brew install hugo
+创建站点&lt;/li&gt;
+&lt;li&gt;hugo new site myblog&lt;/li&gt;
+&lt;li&gt;cd myblog&lt;/li&gt;
+&lt;li&gt;git init&lt;/li&gt;
+&lt;li&gt;找到自己想要的主题,根据步骤安装
+创建博客&lt;/li&gt;
+&lt;li&gt;hugo new post/first.md&lt;/li&gt;
+&lt;li&gt;hugo server -D&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;部署到gitpage&#34;&gt;部署到gitPage&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;先在github 上创建一个仓库,名字必须是username.github.io
+这种方式只是将static文件直接上传到github上，而不是将整个文件夹上传,所以不用gitaction 来部署&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;cd myblog/public&lt;/li&gt;
+&lt;li&gt;git init&lt;/li&gt;
+&lt;li&gt;git add .&lt;/li&gt;
+&lt;li&gt;git commit -m &amp;ldquo;first commit&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;git remote add origin &lt;a href=&#34;https://github.com/useraname/username.github.io.git&#34;&gt;https://github.com/useraname/username.github.io.git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;git push -u origin main&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
   </channel>
 </rss>
